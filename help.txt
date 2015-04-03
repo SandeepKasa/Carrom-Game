@@ -1,0 +1,30 @@
+					
+CARROM GAME
+
+------->  INSTRUCTIONS TO PLAY THE GAME:
+
+          -  Striker is positioned only from the below line.
+	  -  Player should continue the game only with the colour of coin shot first.
+          -  Striker cant be used again until it gets back to its initial position
+          -  Striker position can be adjusted only between the vertical lines of the bottom horizontal line.
+          -  Selected coin - 10 points
+             Red coin - 50 points
+             Other coin - -5 points
+          -  Score becomes 0  :- game over and u lose
+          -  All selected colour coins and red coin pocketed :- u win and game over
+
+------->  CONTROLS TO PLAY THE GAME:
+	
+       -Keyboard
+a : Anti Clockwise Rotation
+c : Clockwise Roatation
+Up arrow : Increases power
+Down Arrow : Decreases power
+Left arrow : Move the striker to left
+Right arrow : Move the striker to right
+Space : Shoot the striker
+Esc : Exit the game
+	
+     -Mouse
+Right Click And Drag : Changes the position of the striker
+Left click any where on board : Shoots the striker in that diection with a speed realtive to the point of clicking.
